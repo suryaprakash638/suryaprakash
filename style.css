@@ -1,0 +1,70 @@
+h1{
+	text-align: center;
+}
+.menu{
+	background-color: rgb(244, 241, 246);
+}
+ul{
+	list-style: none;
+	display: flex;
+	margin:  40px;
+    
+    }
+
+ul li{
+	color: rgb(12, 12, 12);
+	margin: 25px;
+    margin-right: 15%;
+    font-weight: bold;
+    font-size: 20px;
+}
+h3{
+	font-weight: bold;
+	font-size: 25px;
+	margin-left: 15px;
+}
+#obj{
+	font-family: times new roman;
+	height: 20%;
+	width: 60%;
+	display: inline-block;
+	position: absolute;
+	top:  40%;
+	text-indent: 50px;
+	font-family: times new roman;
+	font-size: 25px;
+	line-height: 45px;
+	margin-left: 15px;
+	text-align: justify;
+	margin-top: -50px;
+}
+.profile{
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	position:  relative;
+	left: 73%;
+	top:  20%;
+}
+.profile-pic{
+	border: solid  black;
+	height: 200px;
+	width:  178px;
+	object-fit: fill;
+}
+#delc{
+    text-indent: 50px;
+	font-family: times new roman;
+	font-size: 25px;	
+    margin-left: 15px;
+	text-align: justify;
+	margin-top: 30px;
+}
+h4{
+	font-size: 20px;
+	text-align: center;
+	
+}
+.del{
+	margin-top: 80px;
+}
